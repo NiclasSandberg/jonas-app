@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/github.io/jonas-app.git/static/css/main.9c92a2c7.chunk.css",
+    "main.js": "/github.io/jonas-app.git/static/js/main.ac63d10f.chunk.js",
+    "main.js.map": "/github.io/jonas-app.git/static/js/main.ac63d10f.chunk.js.map",
+    "runtime-main.js": "/github.io/jonas-app.git/static/js/runtime-main.a23ff371.js",
+    "runtime-main.js.map": "/github.io/jonas-app.git/static/js/runtime-main.a23ff371.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/github.io/jonas-app.git/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.9a33c963.chunk.js": "/github.io/jonas-app.git/static/js/2.9a33c963.chunk.js",
+    "static/js/2.9a33c963.chunk.js.map": "/github.io/jonas-app.git/static/js/2.9a33c963.chunk.js.map",
+    "index.html": "/github.io/jonas-app.git/index.html",
+    "precache-manifest.56c4751f8cef977eb33a8b37eee8a8cd.js": "/github.io/jonas-app.git/precache-manifest.56c4751f8cef977eb33a8b37eee8a8cd.js",
+    "service-worker.js": "/github.io/jonas-app.git/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/github.io/jonas-app.git/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.9c92a2c7.chunk.css.map": "/github.io/jonas-app.git/static/css/main.9c92a2c7.chunk.css.map",
+    "static/js/2.9a33c963.chunk.js.LICENSE.txt": "/github.io/jonas-app.git/static/js/2.9a33c963.chunk.js.LICENSE.txt",
+    "static/media/1280.jpg": "/github.io/jonas-app.git/static/media/1280.6af356ca.jpg",
+    "static/media/1440.jpg": "/github.io/jonas-app.git/static/media/1440.8905caa0.jpg",
+    "static/media/Cover.jpg": "/github.io/jonas-app.git/static/media/Cover.5028d72f.jpg",
+    "static/media/Wake.jpg": "/github.io/jonas-app.git/static/media/Wake.4b130f81.jpg",
+    "static/media/bredare_nologo.jpg": "/github.io/jonas-app.git/static/media/bredare_nologo.6eb9a348.jpg",
+    "static/media/cp.jpg": "/github.io/jonas-app.git/static/media/cp.0e2febfe.jpg",
+    "static/media/nologo.jpg": "/github.io/jonas-app.git/static/media/nologo.e6a98412.jpg",
+    "static/media/nologoleft.jpg": "/github.io/jonas-app.git/static/media/nologoleft.a1973af4.jpg",
+    "static/media/webb_cover.jpg": "/github.io/jonas-app.git/static/media/webb_cover.09dfe100.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a23ff371.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.9a33c963.chunk.js",
+    "static/css/main.9c92a2c7.chunk.css",
+    "static/js/main.ac63d10f.chunk.js"
+  ]
+}
