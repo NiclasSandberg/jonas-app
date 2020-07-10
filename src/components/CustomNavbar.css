@@ -1,0 +1,12 @@
+
+
+.navbar-collapse {
+    display: inline-block;
+    text-align: center;
+}
+.brandTitle {
+        font-size: 2rem;
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+}

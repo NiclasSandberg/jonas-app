@@ -1,0 +1,44 @@
+
+#jonasCover {
+    position: absolute;
+    z-index: 9999;
+    width: 20%;
+    right: 10%;
+    top: 23.5%;
+}
+
+.jonasCover {
+    position: absolute;
+    z-index: 9999;
+    width: 15%;
+    right: 10%;
+    top: 62.5%;
+    font-size: 1.5rem;
+}
+
+
+#jonasCover1 {
+
+    z-index: 999;
+}
+
+
+/*@media (min-width: 768px) {
+    .carousel {
+        margin: 10px 10px 25px 10px;
+        height: 850px!important;
+        width: 1500px;
+        
+    }
+}
+
+
+@media (min-width: 768px) {
+    .carousel.item {
+        margin: 10px 10px 25px 10px;
+        height: 850px!important;
+        width: 1500px;
+        
+    }
+}
+*/
