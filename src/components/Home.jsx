@@ -8,8 +8,8 @@ class Home extends Component {
     render() { 
         return ( 
             <React.Fragment>
-            
             <Cardz />
+            
             </React.Fragment>
          );
     }

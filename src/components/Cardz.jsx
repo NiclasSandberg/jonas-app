@@ -16,19 +16,25 @@ const Cardz = () => {
   return (
     <React.Fragment>
    
-     
-
+    {/*
+   <Image id="jonasCover1"src={nologoleft} fluid />
+  
+  <Image id="jonasCover"src={Jonasbild} fluid/>
+  <Image src={Jonasbild} fluid/>
+   */}
         <Card className="wh-50 mt-1">
+        
           <Card.Img  id="jonasCover1" variant="top" src={nologoleft} />
           
-          <Card.Body>
-            
-          </Card.Body>
+         
           <Image id="jonasCover"src={Jonasbild} fluid />
           <Card.Text className="jonasCover">
               New Single out now! Listen on Spotify.
           </Card.Text>
+          
         </Card>
+ 
+  
       
      
       

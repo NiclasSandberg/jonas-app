@@ -1,3 +1,6 @@
+.card {
+    border:none;
+}
 
 #jonasCover {
     position: absolute;
@@ -13,12 +16,12 @@
     width: 15%;
     right: 10%;
     top: 62.5%;
-    font-size: 1.5rem;
+    font-size: 1.5em;
 }
 
 
 #jonasCover1 {
-
+    
     z-index: 999;
 }
 
