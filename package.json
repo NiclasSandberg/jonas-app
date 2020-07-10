@@ -1,6 +1,6 @@
 {
-  "homepage": "http://NiclasSandberg/github.io/snitt-app.git",
-  "name": "snitt-app",
+  "homepage": "http://NiclasSandberg/github.io/jonas-app.git",
+  "name": "jonas-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
