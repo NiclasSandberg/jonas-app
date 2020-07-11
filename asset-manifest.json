@@ -1,34 +1,36 @@
 {
   "files": {
-    "main.css": "/jonas-app/static/css/main.13792308.chunk.css",
-    "main.js": "/jonas-app/static/js/main.d3c7592b.chunk.js",
-    "main.js.map": "/jonas-app/static/js/main.d3c7592b.chunk.js.map",
+    "main.css": "/jonas-app/static/css/main.ec6e6383.chunk.css",
+    "main.js": "/jonas-app/static/js/main.08c6c7a0.chunk.js",
+    "main.js.map": "/jonas-app/static/js/main.08c6c7a0.chunk.js.map",
     "runtime-main.js": "/jonas-app/static/js/runtime-main.5b2100bd.js",
     "runtime-main.js.map": "/jonas-app/static/js/runtime-main.5b2100bd.js.map",
     "static/css/2.af3c1da9.chunk.css": "/jonas-app/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.9a33c963.chunk.js": "/jonas-app/static/js/2.9a33c963.chunk.js",
-    "static/js/2.9a33c963.chunk.js.map": "/jonas-app/static/js/2.9a33c963.chunk.js.map",
+    "static/js/2.d5034348.chunk.js": "/jonas-app/static/js/2.d5034348.chunk.js",
+    "static/js/2.d5034348.chunk.js.map": "/jonas-app/static/js/2.d5034348.chunk.js.map",
     "index.html": "/jonas-app/index.html",
-    "precache-manifest.de9796a6e010a83b99e9446d552c80fe.js": "/jonas-app/precache-manifest.de9796a6e010a83b99e9446d552c80fe.js",
+    "precache-manifest.2d59be4f05c849eab0643715a58b7205.js": "/jonas-app/precache-manifest.2d59be4f05c849eab0643715a58b7205.js",
     "service-worker.js": "/jonas-app/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/jonas-app/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.13792308.chunk.css.map": "/jonas-app/static/css/main.13792308.chunk.css.map",
-    "static/js/2.9a33c963.chunk.js.LICENSE.txt": "/jonas-app/static/js/2.9a33c963.chunk.js.LICENSE.txt",
+    "static/css/main.ec6e6383.chunk.css.map": "/jonas-app/static/css/main.ec6e6383.chunk.css.map",
+    "static/js/2.d5034348.chunk.js.LICENSE.txt": "/jonas-app/static/js/2.d5034348.chunk.js.LICENSE.txt",
     "static/media/1280.jpg": "/jonas-app/static/media/1280.6af356ca.jpg",
     "static/media/1440.jpg": "/jonas-app/static/media/1440.8905caa0.jpg",
     "static/media/Cover.jpg": "/jonas-app/static/media/Cover.5028d72f.jpg",
     "static/media/Wake.jpg": "/jonas-app/static/media/Wake.4b130f81.jpg",
     "static/media/bredare_nologo.jpg": "/jonas-app/static/media/bredare_nologo.6eb9a348.jpg",
     "static/media/cp.jpg": "/jonas-app/static/media/cp.0e2febfe.jpg",
+    "static/media/mindrekant.jpg": "/jonas-app/static/media/mindrekant.9a2f9539.jpg",
     "static/media/nologo.jpg": "/jonas-app/static/media/nologo.e6a98412.jpg",
     "static/media/nologoleft.jpg": "/jonas-app/static/media/nologoleft.a1973af4.jpg",
+    "static/media/ugly.jpg": "/jonas-app/static/media/ugly.c062ea47.jpg",
     "static/media/webb_cover.jpg": "/jonas-app/static/media/webb_cover.09dfe100.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5b2100bd.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.9a33c963.chunk.js",
-    "static/css/main.13792308.chunk.css",
-    "static/js/main.d3c7592b.chunk.js"
+    "static/js/2.d5034348.chunk.js",
+    "static/css/main.ec6e6383.chunk.css",
+    "static/js/main.08c6c7a0.chunk.js"
   ]
 }
