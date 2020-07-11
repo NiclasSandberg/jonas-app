@@ -9,34 +9,30 @@ import bredare_nologo from '../assets/img/bredare_nologo.jpg';
 import nologo from '../assets/img/nologo.jpg';
 import nologoleft from '../assets/img/nologoleft.jpg';
 import Wake from '../assets/img/Wake.jpg';
+import mindrekant from '../assets/img/mindrekant.jpg';
 import Cards from './Cardz.css';
+import Ugly from '../assets/img/ugly.jpg';
 
 
 const Cardz = () => {
   return (
     <React.Fragment>
    
-    {/*
-   <Image id="jonasCover1"src={nologoleft} fluid />
-  
-  <Image id="jonasCover"src={Jonasbild} fluid/>
-  <Image src={Jonasbild} fluid/>
-   */}
-        <Card className="wh-50 mt-1">
+     
         
-          <Card.Img  id="jonasCover1" variant="top" src={nologoleft} />
+        <Card className="wh-50 mt-1">
+          <Card.Img  id="jonasCover1" variant="top" src={mindrekant} />
           
-         
+          <Card.Body>
+            
+          </Card.Body>
           <Image id="jonasCover"src={Jonasbild} fluid />
           <Card.Text className="jonasCover">
               New Single out now! Listen on Spotify.
           </Card.Text>
-          
         </Card>
- 
-  
       
-     
+        //kom ihåg att kolla udemy lägga ovanpå cardet, overlay bakgrunden?
       
 
 
@@ -55,4 +51,3 @@ const Cardz = () => {
 
 
 export default Cardz;
-
