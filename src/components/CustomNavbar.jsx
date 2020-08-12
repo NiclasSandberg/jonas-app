@@ -7,21 +7,31 @@ class CustomNavbar extends Component {
     state = {}
     render() {
         return (
-            <Navbar className="mt-1" collapseOnSelect expand="md" bg="dark" variant="dark">
-                <Container expand="lg">
+            <React.Fragment>
                 
-                <Navbar.Toggle className="ml-auto" aria-controls="responsive-navbar-nav" />
-               <Navbar.Brand className="brandTitle" href="#home">JONAS SNITT</Navbar.Brand>
-                <Navbar.Collapse id="responsive-navbar-nav ">
-                    <Nav className="ml-auto">
-                    <Nav.Link href="#deets">Home</Nav.Link>
-                        <Nav.Link href="#deets">Media</Nav.Link>
-                        <Nav.Link eventKey={2} href="#memes">About</Nav.Link>
-                        <Nav.Link eventKey={2} href="#memes">Pictures</Nav.Link>
+             
+                <Navbar className="mt-1" collapseOnSelect expand="md" bg="dark" variant="dark">
+                     <div className="navbar-collapse collapse dual-nav ml-3">
+                            <ul className="nav navbar-nav d-flex">
+                                <li className="nav-item"><a className="nav-link" href="https://www.facebook.com/JonasSnitt/"><i className="fa fa-facebook"></i></a></li>
+                                <li className="nav-item"><a className="nav-link" href="https://www.instagram.com/jonas_snitt/?hl=en"><i className="fa fa-instagram"></i></a></li>
+                            </ul>
+                        </div>
+                       
+                    <Navbar.Brand className="mx-auto coco" href="/">JONAS SNITT</Navbar.Brand>
+                    
+               <Navbar.Toggle className="" aria-controls="responsive-navbar-nav ml-auto" />
+                <Navbar.Collapse id="responsive-navbar-nav">
+                   
+                    <Nav className="text-center ml-auto mr-3">
+                    <Nav.Link href="/">Home</Nav.Link>
+                        <Nav.Link href="/Music+Videos">Music + Videos</Nav.Link>
+                        <Nav.Link href="/About">About</Nav.Link>
                     </Nav>
-                </Navbar.Collapse>
-                </Container>
+                    </Navbar.Collapse>
+            
             </Navbar>
+            </React.Fragment>
 
         );
     }

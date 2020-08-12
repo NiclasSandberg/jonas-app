@@ -1,12 +1,53 @@
 
-
+/*
 .navbar-collapse {
     display: inline-block;
     text-align: center;
 }
+*/
 .brandTitle {
         font-size: 2rem;
-        position: absolute;
+        /*position: absolute;
         left: 50%;
         transform: translateX(-50%);
+        */
 }
+
+.fa {
+    /*
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;*/
+  } 
+
+
+  
+  .navbar-brand {
+    padding-left:3.600rem;
+  }
+
+  .navbar-toggle {
+    width: 100%;
+    float: none;
+    margin-right: 0;
+  }
+
+  .fa-instagram {
+    font-size: 1.5em;
+  }
+  .fa-facebook {
+    font-size: 1.5em;
+  }
+
+  @media (min-width: 768px) {
+  .navbar-brand
+        {
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+            padding-left:0px;
+        }
+    }
