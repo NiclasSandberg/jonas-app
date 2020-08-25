@@ -13,8 +13,8 @@ class Home extends Component {
             <React.Fragment>
 
                 <Cardz />
-                <MusicVideos />
-                <About />
+                {/*<MusicVideos />
+                <About /> */}
                 
             </React.Fragment>
         );

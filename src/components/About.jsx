@@ -52,7 +52,7 @@ class About extends Component {
                             </Carousel.Item>
                         </Carousel>
                         {/*Image className="mb-4" src={AboutPic} fluid />*/}
-                        <Row className="mx-lg-3 mt-3">
+                        <Row className="mx-lg-3 mt-3 mt-lg-4">
                             <Col className="" md={6}><p> Jonas Snitt, Swedish Singer / Songwriter / Guitarist / Producer. Grew up in Paris and moved to Stockholm in year 2000. He got his first guitar at the age of 13 and played a lot of Blues and Rock, listening to Eric Clapton, B.B King and Jimi Hendrix. Later on he studied classical guitar and opera in a music highschool in Stockholm called Lilla Akademien.
 
                             He participated in the television program The Voice Sweden 2012 and joined the team of Carola Häggkvist. She told Jonas was a ” record company’s dream ” because of his voice and live appearance. During the spring of 2012 the song "Feel The Light" was played at the Swedish national radio channel P4. Since then he recorded several EP albums, played a great number of big shows in Sweden and was the lead guitarist with Mikael Rickfors during summer 2018. 

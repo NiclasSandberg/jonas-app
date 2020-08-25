@@ -26,9 +26,9 @@ const Cardz = () => {
     <React.Fragment>
 
       <Card className="bg-dark text-white mt-sm-1">
-        <Card.Img className="d-none d-sm-block" src={HeaderPic} fluid alt="Card image" />
+        <Card.Img className="d-none d-lg-block" src={HeaderPic} fluid alt="Card image" />
         
-        <Card.ImgOverlay className="col col-sm-3 ml-auto albumpos">
+        <Card.ImgOverlay className="col col-lg-3 ml-auto albumpos">
           
           
         <Nav.Link href="/News" className="enLarge2"> 
@@ -46,7 +46,7 @@ const Cardz = () => {
         
 
       </Card>
-      <Col style={{ textAlign: "center" }} className="d-sm-none">
+      <Col style={{ textAlign: "center" }} className="d-lg-none">
         <iframe style={{ height: "80px" }} src="https://open.spotify.com/embed/track/2pA7y8h2hsjMDpI0zyMZvI" width="auto" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
       </Col>
     

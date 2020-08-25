@@ -8,15 +8,7 @@
     position: 100;
   }
 
-  .jumbotron{
-    /*background-image: url('../assets/img/mindrekant.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-   */
-    
-    
-   }
-
+  
 
 #card-bild {
     
@@ -58,30 +50,25 @@
     transform: scale(1.02);
 }
 
-@media screen and (max-width: 575px){
+@media screen and (max-width: 992px){
 
 .card-img-overlay {
         position: relative!important;
         background-color: white;
     }
     
-
-#mobile-header{
-    height:"900px";
-    background-color: blue;
-}
 }
 
 .albumpos {
     z-index: 9999;
 }
-@media (min-width: 575.98px) { 
+@media (min-width: 992px) { 
 .albumpos {
     margin-right:4rem;
     margin-top:8rem;
     }
 }
-@media (min-width: 992px) { 
+@media (min-width: 1200px) { 
 
 .albumpos {
         margin-right:5rem;
