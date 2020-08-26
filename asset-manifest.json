@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/jonas-app/static/css/main.03fb4ddd.chunk.css",
-    "main.js": "/jonas-app/static/js/main.8a7c8bd3.chunk.js",
-    "main.js.map": "/jonas-app/static/js/main.8a7c8bd3.chunk.js.map",
+    "main.js": "/jonas-app/static/js/main.b0ba17bf.chunk.js",
+    "main.js.map": "/jonas-app/static/js/main.b0ba17bf.chunk.js.map",
     "runtime-main.js": "/jonas-app/static/js/runtime-main.5b2100bd.js",
     "runtime-main.js.map": "/jonas-app/static/js/runtime-main.5b2100bd.js.map",
     "static/css/2.af3c1da9.chunk.css": "/jonas-app/static/css/2.af3c1da9.chunk.css",
     "static/js/2.41a450fb.chunk.js": "/jonas-app/static/js/2.41a450fb.chunk.js",
     "static/js/2.41a450fb.chunk.js.map": "/jonas-app/static/js/2.41a450fb.chunk.js.map",
     "index.html": "/jonas-app/index.html",
-    "precache-manifest.035e9cb3482fb454318b2cc12ddf75ce.js": "/jonas-app/precache-manifest.035e9cb3482fb454318b2cc12ddf75ce.js",
+    "precache-manifest.debf54c8b2c5c87a3d138aa0d2877c46.js": "/jonas-app/precache-manifest.debf54c8b2c5c87a3d138aa0d2877c46.js",
     "service-worker.js": "/jonas-app/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/jonas-app/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.03fb4ddd.chunk.css.map": "/jonas-app/static/css/main.03fb4ddd.chunk.css.map",
@@ -42,6 +42,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.41a450fb.chunk.js",
     "static/css/main.03fb4ddd.chunk.css",
-    "static/js/main.8a7c8bd3.chunk.js"
+    "static/js/main.b0ba17bf.chunk.js"
   ]
 }
