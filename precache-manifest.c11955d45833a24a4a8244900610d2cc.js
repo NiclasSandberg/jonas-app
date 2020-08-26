@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2f37abbf6da5982df2a40b62347e4ce4",
+    "revision": "43afbda04a3060fcebc3102e7030ee79",
     "url": "/jonas-app/index.html"
   },
   {
-    "revision": "d31d1c6a0cdb9181d158",
+    "revision": "f5900acf87460f2b93f2",
     "url": "/jonas-app/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "fbf9d2f057e1c66f9729",
+    "revision": "991e6fbfda3af203042d",
     "url": "/jonas-app/static/css/main.03fb4ddd.chunk.css"
   },
   {
-    "revision": "d31d1c6a0cdb9181d158",
-    "url": "/jonas-app/static/js/2.4ecbeb6e.chunk.js"
+    "revision": "f5900acf87460f2b93f2",
+    "url": "/jonas-app/static/js/2.288ec322.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/jonas-app/static/js/2.4ecbeb6e.chunk.js.LICENSE.txt"
+    "url": "/jonas-app/static/js/2.288ec322.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fbf9d2f057e1c66f9729",
-    "url": "/jonas-app/static/js/main.f66dd2b8.chunk.js"
+    "revision": "991e6fbfda3af203042d",
+    "url": "/jonas-app/static/js/main.15ed44ff.chunk.js"
   },
   {
     "revision": "1aa57881d7152a23d3bb",
