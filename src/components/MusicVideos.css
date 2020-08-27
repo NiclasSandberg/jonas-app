@@ -19,8 +19,14 @@
  color: grey!important;
  font-size: 31px!important;
  margin-bottom:50px;
+ 
 }
-
+@media (max-width: 768px) {
+    
+    #whenIWakeUp {
+    line-height: 2rem!important;
+    }
+}
 @media (min-width: 768px) {
     
 #whenIWakeUp { 

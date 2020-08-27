@@ -13,6 +13,24 @@
         */
 }
 
+.socialMedia {
+ display:flex;
+ flex-direction: row;
+ position: relative;
+ top:0.17rem;
+  
+}
+
+
+@media (min-width: 768px) {
+  .socialMedia {
+    display:none;
+  }
+}
+.inst-ikon {
+  margin-right: 0rem;
+  margin-left: 0.75rem;
+}
 .fa {
     /*
     padding: 20px;
@@ -26,13 +44,18 @@
 
   
   .navbar-brand {
-    padding-left:3.600rem;
+    padding-left:1rem;
+    
   }
 
   .navbar-toggle {
     width: 100%;
     float: none;
     margin-right: 0;
+  }
+  
+  .nav-link {
+    padding-right: 0rem!important;
   }
 
   .fa-instagram {

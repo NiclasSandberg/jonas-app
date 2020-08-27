@@ -1,4 +1,5 @@
-import { Card, Image, Carousel, Container, Jumbotron, Col, Row, Table, Nav, Link } from 'react-bootstrap';
+import { Card, Image, Carousel, Container, Jumbotron, Col, Row, Table, Nav } from 'react-bootstrap';
+import { Link } from 'react-router-dom';
 import React from 'react'
 import JonasAlbum from '../assets/img/JonasAlbum.jpg';
 import JonasAlbumMobil from '../assets/img/JonasAlbumMobil.jpg';
@@ -31,7 +32,7 @@ const Cardz = () => {
         <Card.ImgOverlay className="col col-lg-3 ml-auto albumpos">
           
           
-        <Nav.Link href="/News" className="enLarge2"> 
+        <Nav.Link as={Link} to="/News" className="enLarge2"> 
           <Card.Img  id="card-bild" src={JonasAlbumMobil}
             srcSet={`${JonasAlbumMobil} 300w, ${JonasAlbumMobil} 768w, ${JonasAlbum} 1280w`} fluid />
            

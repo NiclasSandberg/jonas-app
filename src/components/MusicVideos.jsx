@@ -14,7 +14,7 @@ const MusicVideos = () => {
           
         <Container id="topContainerMusic" className="">
         <Row>
-          <Col xs={5} md={5} style={{zIndex:9999, marginTop:50}}>
+          <Col className=""xs={5} md={5} style={{zIndex:9999, marginTop:50}}>
           <h4>Listen To</h4>
           <h2 id="whenIWakeUp">When I Wake Up</h2>
           <iframe style={{ marginTop:"10px"}} src="https://open.spotify.com/embed/track/2pA7y8h2hsjMDpI0zyMZvI" width="300" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>

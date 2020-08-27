@@ -15,7 +15,7 @@ class Home extends Component {
                 <Cardz />
                 {/*<MusicVideos />
                 <About /> */}
-                
+               
             </React.Fragment>
         );
     }

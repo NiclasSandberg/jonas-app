@@ -18,7 +18,7 @@ class About extends Component {
             <React.Fragment>
                 <Container className="mt-1">
                     <Jumbotron>
-                        <h2>My Story</h2>
+                        <h2>About</h2>
                         <Carousel>
                             <Carousel.Item className="h-200" interval={300}>
                                 

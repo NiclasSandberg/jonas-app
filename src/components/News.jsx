@@ -4,6 +4,7 @@ import NewsStyle from './News.css';
 import HeaderPic from '../assets/img/HeaderPic.jpg';
 import Spotify_Logo from '../assets/img/Spotify_Logo.png';
 import Deezer_Logo from '../assets/img/Deezer_Logo.png';
+import ContactForm from '../components/ContactForm';
 
 const News = () => {
     return (
@@ -38,8 +39,9 @@ const News = () => {
         style={{borderRadius: "13px", width: "250px", height: "83px"}}
          alt="Listen on Deezer" /> </a>
         </Row>
-       
+        
         </Container>
+        <ContactForm />
         </React.Fragment>
          
 
