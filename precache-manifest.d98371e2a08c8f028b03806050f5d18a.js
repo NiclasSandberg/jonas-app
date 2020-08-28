@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f8c778ae8d92fa4285cc2fee277397c5",
+    "revision": "6ae9717f0e98a8394c4f529cea357a8c",
     "url": "/jonas-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jonas-app/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "0ddb3997f02713e7610f",
+    "revision": "6277d3c4c217477584c5",
     "url": "/jonas-app/static/css/main.610eb21b.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jonas-app/static/js/2.610400a4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0ddb3997f02713e7610f",
-    "url": "/jonas-app/static/js/main.c1ce6019.chunk.js"
+    "revision": "6277d3c4c217477584c5",
+    "url": "/jonas-app/static/js/main.42b68e8b.chunk.js"
   },
   {
     "revision": "1aa57881d7152a23d3bb",
