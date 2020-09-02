@@ -26,7 +26,7 @@
 
 
 @media screen and (max-width:1200px){
-    body .card-img-overlay {
+.card-img-overlay {
         position:relative!important;
         background-color:white!important;
     }

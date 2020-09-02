@@ -26,7 +26,7 @@ const Home = () => {
         </Card.ImgOverlay>
     </Card>
       
-      <Col style={{ textAlign: "center" }} className="d-xl-none">
+      <Col style={{ textAlign: "center" }} className="mb-4 d-xl-none">
         <iframe style={{ height: "80px" }} title="Stream Can't Stop on Spotify" src="https://open.spotify.com/embed/track/2pA7y8h2hsjMDpI0zyMZvI"
           width="auto" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
       </Col>
