@@ -1,16 +1,6 @@
 
-/*
-.navbar-collapse {
-    display: inline-block;
-    text-align: center;
-}
-*/
 .brandTitle {
-        font-size: 2rem;
-        /*position: absolute;
-        left: 50%;
-        transform: translateX(-50%);
-        */
+  font-size: 2rem;
 }
 
 .socialMedia {
@@ -18,59 +8,55 @@
  flex-direction: row;
  position: relative;
  top:0.17rem;
-  
 }
 
 
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   .socialMedia {
     display:none;
   }
+  .navbar-expand-md .navbar-nav .nav-link {
+    padding-left: 0.7rem;
+    
+  }
+  .contactLink {
+    margin-right: 2rem;
+  }
 }
+
 .inst-ikon {
   margin-right: 0rem;
   margin-left: 0.75rem;
 }
-.fa {
-    /*
-    padding: 20px;
-    font-size: 30px;
-    width: 50px;
-    text-align: center;
-    text-decoration: none;
-    margin: 5px 2px;*/
-  } 
 
 
-  
-  .navbar-brand {
-    padding-left:1rem;
-    
-  }
+.navbar-brand {
+  padding-left:1rem;
+}
 
-  .navbar-toggle {
+.navbar-toggle {
     width: 100%;
     float: none;
     margin-right: 0;
-  }
+}
   
-  .nav-link {
+.nav-link {
     padding-right: 0rem!important;
-  }
+}
 
-  .fa-instagram {
+.fa-instagram {
     font-size: 1.5em;
-  }
-  .fa-facebook {
-    font-size: 1.5em;
-  }
+}
 
-  @media (min-width: 768px) {
-  .navbar-brand
-        {
-            position: absolute;
-            left: 50%;
-            transform: translateX(-50%);
-            padding-left:0px;
-        }
-    }
+.fa-facebook {
+    font-size: 1.5em;
+}
+
+@media (min-width: 992px) {
+  .navbar-brand {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    padding-left:0px;
+  }
+}

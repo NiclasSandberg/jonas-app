@@ -1,0 +1,27 @@
+@media screen and (min-width:992px) {
+    .contactOverlay {
+        margin-top:180px;
+        margin-right:300px;
+        margin-left:1.5rem;
+        color:white;
+    }
+
+body    .card-img-overlay {
+        position:absolute!important;
+        bottom: 0;
+        left: 0;
+        background-color: transparent!important;
+    }
+}
+
+@media screen and (min-width:1200px) {
+    .contactOverlay {
+        margin-top:282px;
+    }
+
+    .contactContainer {
+        margin-top:30px!important;
+    }
+}
+
+

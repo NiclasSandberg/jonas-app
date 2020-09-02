@@ -1,0 +1,72 @@
+.card {
+    border: none;
+}
+#card-bild {
+    box-shadow:10px 10px 10px #343A40;  
+}
+
+.Card .Title {
+    text-align:center!important;
+}
+
+.enlargeAlbum {
+    transition: all .2s ease-in-out;
+    z-index:1;
+    padding:0!important;
+}
+
+.enlargeAlbum:hover {  
+    transform: scale(1.02);
+}
+
+
+.albumpos {
+    z-index: 9999;
+}
+
+
+@media screen and (max-width:1200px){
+    body .card-img-overlay {
+        position:relative!important;
+        background-color:white!important;
+    }
+}
+    
+
+@media (min-width: 1200px) { 
+    .albumpos {
+        margin-right:4rem;
+        margin-top:8rem;
+    }
+}
+
+@media (min-width: 1200px) { 
+    .albumpos {
+        margin-right:5rem;
+        margin-top:12rem;
+        }   
+}
+
+@media (min-width: 1800px) { 
+    .albumpos {
+        margin-right:5rem;
+        margin-top:13.5rem;
+    }   
+}
+
+@media (min-width: 2100px) { 
+    .albumpos {
+        margin-right:7rem;
+        margin-top:22rem;
+    }   
+}
+
+@media (min-width: 3000px) { 
+    .albumpos {
+        margin-right:10rem;
+        margin-top:32rem;
+    }   
+}
+
+
+

@@ -1,7 +1,3 @@
-// Customize this 'myform.js' script and add it to your JS bundle.
-// Then import it with 'import MyForm from "./myform.js"'.
-// Finally, add a <MyForm/> element whereever you wish to display the form.
-
 import React from "react";
 import { Container, Form, FormControl } from "react-bootstrap";
 
@@ -20,7 +16,6 @@ export default class MyForm extends React.Component {
       
       
       <Form 
-        
         onSubmit={this.submitForm}
         action="https://formspree.io/xlepyeja"
         method="POST"
@@ -39,11 +34,6 @@ export default class MyForm extends React.Component {
         {status === "SUCCESS" ? <p>Thanks!</p> : <button>Submit</button>}
         {status === "ERROR" && <p>Ooops! There was an error.</p>}
       </Form>
-      
-      
- 
-      
-      
     );
   }
 

@@ -1,14 +1,13 @@
 import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import Home from "./components/Home";
-import About from "./components/About";
+import { BrowserRouter as Router, Route } from "react-router-dom";
+import About from "./pages/About";
 import CustomNavbar from "./components/CustomNavbar";
-import Cardz from "./components/Cardz";
-import MusicVideos from './components/MusicVideos';
-import News from './components/News';
-import Contact from './components/Contact';
+import Home from "./pages/Home";
+import MusicVideos from './pages/MusicVideos';
+import MusicPlatforms from './pages/MusicPlatforms';
+import Contact from './pages/Contact';
 
 function App() {
   return (
@@ -19,7 +18,7 @@ function App() {
         <Route exact path="/" component={Home} />
         <Route path="/jonas-app/" component={Home} />
         <Route path="/music+videos" component={MusicVideos} />
-        <Route path="/news" component={News} />
+        <Route path="/MusicPlatforms" component={MusicPlatforms} />
         <Route path="/about" component={About} />
         <Route path="/contact" component={Contact} />
         
