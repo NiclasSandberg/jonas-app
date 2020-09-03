@@ -16,7 +16,7 @@ const MusicVideos = () => {
             <h4>Listen To</h4>
             <h2 id="whenIWakeUp">When I Wake Up</h2>
             <iframe className="d-none d-md-block" style={{ marginTop: "28px" }} src="https://open.spotify.com/embed/track/2pA7y8h2hsjMDpI0zyMZvI"
-              title="Stream Can't Stop on Spotify." width="300" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+              title="Stream When i Wake up on Spotify." width="300" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
           </Col>
           <Col xs={7} md={7} xl={7}>
             <Image className="mt-0 ml-md-3 mt-lg-2 ml-xl-0 redJacket"
@@ -26,7 +26,7 @@ const MusicVideos = () => {
 
         <Col className="d-flex" syle={{ textAlign: "center" }}>
           <iframe className="d-md-none mx-auto" style={{ alignSelf: "flex-end", marginTop: "40px" }}
-            title="Stream Can't Stop on Spotify" src="https://open.spotify.com/embed/track/2pA7y8h2hsjMDpI0zyMZvI" width="300" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+            title="Stream When i Wake up on Spotify" src="https://open.spotify.com/embed/track/2pA7y8h2hsjMDpI0zyMZvI" width="300" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
         </Col>
       </Container>
 
