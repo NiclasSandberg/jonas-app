@@ -21,6 +21,12 @@
         margin-top:60px!important;
     }
 }
+@media screen and (max-width: 1600px) and (min-width: 1200px) {
+    .redJacket {
+        width:95%;
+        float: right;
+    }
+}
 
 
 @media screen and (max-width: 1600px) {

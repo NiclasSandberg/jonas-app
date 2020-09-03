@@ -1,5 +1,5 @@
 import React from 'react'
-import ContactForm from '../../components/ContactForm';
+import ContactForm from '../components/ContactForm';
 import { Container, Card } from 'react-bootstrap';
 import contact from './Contact.css';
 

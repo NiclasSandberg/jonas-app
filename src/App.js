@@ -7,7 +7,7 @@ import CustomNavbar from "./components/CustomNavbar";
 import Home from "./pages/Home";
 import MusicVideos from './pages/MusicVideos';
 import MusicPlatforms from './pages/MusicPlatforms';
-import Contact from './pages/Contact/Contact';
+import Contact from './pages/Contact';
 
 function App() {
   return (

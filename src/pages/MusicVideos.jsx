@@ -18,7 +18,7 @@ const MusicVideos = () => {
             <iframe className="d-none d-md-block" style={{ marginTop: "28px" }} src="https://open.spotify.com/embed/track/2pA7y8h2hsjMDpI0zyMZvI"
               title="Stream Can't Stop on Spotify." width="300" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
           </Col>
-          <Col xs={7} md={7}>
+          <Col xs={7} md={7} xl={7}>
             <Image className="mt-0 ml-md-3 mt-lg-2 ml-xl-0 redJacket"
               src={RedJacketSmall} srcSet={`${RedJacketSmall} 300w, ${RedJacketSmall} 768w, ${RedJacketLarge} 1280w`} thumbnail />
           </Col>
