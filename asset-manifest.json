@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/jonas-app/static/css/main.dc781d0e.chunk.css",
-    "main.js": "/jonas-app/static/js/main.d8ed9ecd.chunk.js",
-    "main.js.map": "/jonas-app/static/js/main.d8ed9ecd.chunk.js.map",
+    "main.css": "/jonas-app/static/css/main.8b2caec8.chunk.css",
+    "main.js": "/jonas-app/static/js/main.e1244f10.chunk.js",
+    "main.js.map": "/jonas-app/static/js/main.e1244f10.chunk.js.map",
     "runtime-main.js": "/jonas-app/static/js/runtime-main.5b2100bd.js",
     "runtime-main.js.map": "/jonas-app/static/js/runtime-main.5b2100bd.js.map",
     "static/css/2.af3c1da9.chunk.css": "/jonas-app/static/css/2.af3c1da9.chunk.css",
     "static/js/2.b75d3cf7.chunk.js": "/jonas-app/static/js/2.b75d3cf7.chunk.js",
     "static/js/2.b75d3cf7.chunk.js.map": "/jonas-app/static/js/2.b75d3cf7.chunk.js.map",
     "index.html": "/jonas-app/index.html",
-    "precache-manifest.1d870e2791efe2a9010838dc1f718e95.js": "/jonas-app/precache-manifest.1d870e2791efe2a9010838dc1f718e95.js",
+    "precache-manifest.333694ddc1a1a191a354d5200632dfd5.js": "/jonas-app/precache-manifest.333694ddc1a1a191a354d5200632dfd5.js",
     "service-worker.js": "/jonas-app/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/jonas-app/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.dc781d0e.chunk.css.map": "/jonas-app/static/css/main.dc781d0e.chunk.css.map",
+    "static/css/main.8b2caec8.chunk.css.map": "/jonas-app/static/css/main.8b2caec8.chunk.css.map",
     "static/js/2.b75d3cf7.chunk.js.LICENSE.txt": "/jonas-app/static/js/2.b75d3cf7.chunk.js.LICENSE.txt",
     "static/media/AboutDesktop.jpg": "/jonas-app/static/media/AboutDesktop.ae182676.jpg",
     "static/media/AboutMobil.jpg": "/jonas-app/static/media/AboutMobil.5f0835f3.jpg",
@@ -32,7 +32,7 @@
     "static/js/runtime-main.5b2100bd.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.b75d3cf7.chunk.js",
-    "static/css/main.dc781d0e.chunk.css",
-    "static/js/main.d8ed9ecd.chunk.js"
+    "static/css/main.8b2caec8.chunk.css",
+    "static/js/main.e1244f10.chunk.js"
   ]
 }
