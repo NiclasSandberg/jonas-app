@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/jonas-app/static/css/main.8b2caec8.chunk.css",
+    "main.css": "/jonas-app/static/css/main.9b8a01b2.chunk.css",
     "main.js": "/jonas-app/static/js/main.a377feae.chunk.js",
     "main.js.map": "/jonas-app/static/js/main.a377feae.chunk.js.map",
     "runtime-main.js": "/jonas-app/static/js/runtime-main.5b2100bd.js",
@@ -9,10 +9,10 @@
     "static/js/2.b75d3cf7.chunk.js": "/jonas-app/static/js/2.b75d3cf7.chunk.js",
     "static/js/2.b75d3cf7.chunk.js.map": "/jonas-app/static/js/2.b75d3cf7.chunk.js.map",
     "index.html": "/jonas-app/index.html",
-    "precache-manifest.6202ab754740aae0fb6b1f0bb625c39b.js": "/jonas-app/precache-manifest.6202ab754740aae0fb6b1f0bb625c39b.js",
+    "precache-manifest.4b6d78bff2bc38c395c5607c608d85ab.js": "/jonas-app/precache-manifest.4b6d78bff2bc38c395c5607c608d85ab.js",
     "service-worker.js": "/jonas-app/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/jonas-app/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.8b2caec8.chunk.css.map": "/jonas-app/static/css/main.8b2caec8.chunk.css.map",
+    "static/css/main.9b8a01b2.chunk.css.map": "/jonas-app/static/css/main.9b8a01b2.chunk.css.map",
     "static/js/2.b75d3cf7.chunk.js.LICENSE.txt": "/jonas-app/static/js/2.b75d3cf7.chunk.js.LICENSE.txt",
     "static/media/AboutDesktop.jpg": "/jonas-app/static/media/AboutDesktop.ae182676.jpg",
     "static/media/AboutMobil.jpg": "/jonas-app/static/media/AboutMobil.5f0835f3.jpg",
@@ -32,7 +32,7 @@
     "static/js/runtime-main.5b2100bd.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.b75d3cf7.chunk.js",
-    "static/css/main.8b2caec8.chunk.css",
+    "static/css/main.9b8a01b2.chunk.css",
     "static/js/main.a377feae.chunk.js"
   ]
 }
