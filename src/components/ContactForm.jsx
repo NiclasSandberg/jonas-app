@@ -17,14 +17,14 @@ export default class MyForm extends React.Component {
       
       <Form 
         onSubmit={this.submitForm}
-        action="https://formspree.io/xlepyeja"
+        action="https://formspree.io/f/xqkovqbv"
         method="POST"
       >
         
         <Form.Group  controlId="exampleForm.ControlInput1">
         <Form.Label>Email address</Form.Label>
-        <Form.Control type="email" placeholder="name@example.com" />
-        </Form.Group>
+        <Form.Control name="email" type="email" placeholder="name@example.com" />
+        </Form.Group>   
         
       <Form.Group controlId="exampleForm.ControlTextarea1">
       <Form.Label>Message</Form.Label>

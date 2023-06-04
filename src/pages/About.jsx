@@ -1,11 +1,12 @@
 import React from 'react'
 import { Jumbotron, Container, Row, Col, Image, Carousel } from 'react-bootstrap';
-import AboutMobil from '../assets/img/AboutMobil.jpg';
-import AboutDeskt from '../assets/img/AboutDesktop.jpg';
-import KungsanDrumsMobil from '../assets/img/KungsanDrumsMobil.jpg';
-import KungsanDrumsDeskt from '../assets/img/KungsanDrumsDeskt.jpg';
-import KungsanGitarrerMobil from '../assets/img/KungsanGitarrerMobil.jpg';
-import KungsanGitarrer from '../assets/img/KungsanGitarrer.jpg';
+import AboutMobil from '../assets/img/Jonas-Snitt-abandoned-house-mobile.jpg';
+import AboutDeskt from '../assets/img/Jonas-Snitt-abandoned-house.jpg';
+import KungsanDrumsMobil from '../assets/img/Kungstradgarden-live-performance-band-mobile.jpg';
+import KungsanDrumsDeskt from '../assets/img/Kungstradgarden-live-performance-band.jpg';
+import KungsanGitarrerMobil from '../assets/img/Kungstradgarden-Jonas-Snitt-guitar-mobile.jpg';
+import KungsanGitarrer from '../assets/img/Kungstradgarden-Jonas-Snitt-guitar.jpg';
+
 
 const About = () => {
     
@@ -19,22 +20,23 @@ const About = () => {
                             <Carousel.Item className="h-200" interval={300}>
                                 <Image className="d-block w-100"
                                     src={AboutMobil}
-                                    alt="First slide" s
-                                    srcSet={`${AboutMobil} 300w, ${AboutMobil} 768w, ${AboutDeskt} 1280w`} />
+                                    alt="Jonas Snitt with view from abandoned house"
+                                    
+                                    srcSet={`${AboutMobil} 300w, ${AboutMobil} 1100w, ${AboutDeskt} 3500w`} />
                             </Carousel.Item>
 
                             <Carousel.Item interval={300}>
                                 <Image className="d-block w-100"
                                     src={KungsanDrumsMobil}
-                                    alt="First slide"
-                                    srcSet={`${KungsanDrumsMobil} 300w, ${KungsanDrumsMobil} 768w, ${KungsanDrumsDeskt} 1280w`} />
+                                    alt="Jonas Snitt at kungstradgarden with band"
+                                    srcSet={`${KungsanDrumsMobil} 300w, ${KungsanDrumsMobil} 1100w, ${KungsanDrumsDeskt} 3500w`} />
                             </Carousel.Item>
 
                             <Carousel.Item interval={300}>
                                 <Image className="d-block w-100"
                                     src={KungsanGitarrerMobil}
-                                    alt="First slide"
-                                    srcSet={`${KungsanGitarrerMobil} 300w, ${KungsanGitarrerMobil} 768w, ${KungsanGitarrer} 1280w`} />
+                                    alt="Jonas Snitt at kungstradgarden playing guitar"
+                                    srcSet={`${KungsanGitarrerMobil} 300w, ${KungsanGitarrerMobil} 1100w, ${KungsanGitarrer} 3500w`} />
                             </Carousel.Item>
                         
                         </Carousel>

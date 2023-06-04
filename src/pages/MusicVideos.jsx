@@ -1,7 +1,7 @@
 import React from 'react'
 import { Container, Image, Row, Col } from 'react-bootstrap';
-import RedJacketLarge from '../assets/img/RedJacket-Large.jpg';
-import RedJacketSmall from '../assets/img/RedJacket-Small.jpg';
+import RedJacketLarge from '../assets/img/Jonas-Snitt-studio-guitar.jpg';
+import RedJacketSmall from '../assets/img/Jonas-Snitt-studio-guitar-mobile.jpg';
 import ReactPlayer from "react-player";
 import './MusicVideos.css';
 
@@ -20,7 +20,7 @@ const MusicVideos = () => {
           </Col>
           <Col xs={7} md={7} xl={7}>
             <Image className="mt-0 ml-md-3 mt-lg-2 ml-xl-0 redJacket"
-              src={RedJacketSmall} srcSet={`${RedJacketSmall} 300w, ${RedJacketSmall} 768w, ${RedJacketLarge} 1280w`} thumbnail />
+              src={RedJacketSmall} alt="Jonas Snitt studio photoshoot sitting down with guitar" srcSet={`${RedJacketSmall} 300w, ${RedJacketSmall} 1100w, ${RedJacketLarge} 3500w`} thumbnail />
           </Col>
         </Row>
 

@@ -10,7 +10,7 @@ const Contact = () => {
                 <Card className="bg-dark">
                     <Card.Img style={{opacity:"0.6"}}
                         src="https://images.unsplash.com/photo-1508189860359-777d945909ef?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
-                        alt="Stockholm City View" fluid alt="Card image" />
+                        fluid alt="Stockholm city view by the water" />
                     <Card.ImgOverlay className="contactOverlay">
 
                         <Card.Text >
